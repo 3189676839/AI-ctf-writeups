@@ -8,10 +8,11 @@
 
 - flag：`flag{15c294ce-500c-44bc-95f0-72c94a08c9dc}`
 
-## 目录说明
+## 目录导航
 
-- `writeup.md`：完整中文 writeup，包含完整 exp 与关键利用链
-- `attachments/`：题目附件目录说明
+- `writeup.md`：完整中文 writeup
+- `exp/README.md`：exp 说明
+- `attachments/README.md`：附件说明
 
 ## 利用链摘要
 
