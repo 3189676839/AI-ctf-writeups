@@ -39,7 +39,7 @@ def apply(state: int, r: int):
         if bits[r - 1] != 1:
             return None
         for i in range(1, r - 1):
-            if bits[i] != 1:
+            if bits[i] == 1:
                 return None
         bits[r] ^= 1
 
@@ -49,7 +49,7 @@ def apply(state: int, r: int):
     return new_state
 
 
-def bfs(start: int, goal: int = 0x1ff):
+def bfs(start: int, goal: int = 0):
     q = deque([start])
     prev = {start: (None, None)}
     while q:
@@ -97,7 +97,7 @@ def check(name: str, serial: str) -> bool:
         if ns is None:
             return False
         state = ns
-    return state == 0x1ff
+    return state == 0
 
 
 if __name__ == '__main__':
