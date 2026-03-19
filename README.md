@@ -46,6 +46,11 @@
   - 用户名：`KCTF`
   - 正确序列号：`0uUNukUQCw81NjE2ODk3MjA5ODYxMDgxODA1`
 
+- `reverse/core_crackme_v2_0/`
+  - 状态：**已解出**
+  - 用户名：`KCTF`
+  - 正确注册码：`A86CA89F 77F81C3C FD2620F0`
+
 - `reverse/jinshan2007_crackme/`
   - 状态：**已解出**
   - 用户名：`KCTF`
