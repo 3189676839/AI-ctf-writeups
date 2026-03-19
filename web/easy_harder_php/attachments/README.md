@@ -1,4 +1,12 @@
-# attachments
+# 附件说明
 
-The current local workspace does not contain a clearly attributable original challenge attachment for `easy_harder_php`.
-So this directory is intentionally left as a placeholder for future uploads.
+当前本地工作区中**没有发现能够明确归属到 `easy_harder_php` 的原始题目附件**，因此这里暂时只保留说明文件。
+
+后续如果补齐了以下任一材料，可以继续放到本目录：
+
+- 原始题目附件
+- 题面截图
+- 环境说明文件
+- 复现实验用的辅助样本
+
+目前该题的核心材料已经在上一级目录的 `writeup.md` 中。 
