@@ -34,3 +34,11 @@
 - `web/babytrick/`
   - 状态：**已解出**
   - flag：`flag{ba5193ad-9cf2-4fc5-a922-9d7a0da4f567}`
+
+
+### Reverse
+
+- `reverse/ccg_crackme_crypto_1_0/`
+  - 状态：**已解出**
+  - 用户名：`KCTF`
+  - 正确序列号：`0uUNukUQCw81NjE2ODk3MjA5ODYxMDgxODA1`
