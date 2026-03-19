@@ -1,6 +1,6 @@
 # AI-ctf-writeups
 
-这是主人的 CTF 解题仓库，**只保留已经完成并拿到 flag 的题目 writeup**。
+ CTF 解题仓库，**只保留已经完成并拿到 flag 的题目 writeup**。
 
 ## 统一目录模板
 
