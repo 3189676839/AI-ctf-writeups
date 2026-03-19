@@ -42,3 +42,8 @@
   - 状态：**已解出**
   - 用户名：`KCTF`
   - 正确序列号：`0uUNukUQCw81NjE2ODk3MjA5ODYxMDgxODA1`
+
+- `reverse/jinshan2007_crackme/`
+  - 状态：**已解出**
+  - 用户名：`KCTF`
+  - 正确序列号：`38193105`
