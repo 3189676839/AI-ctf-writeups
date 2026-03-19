@@ -11,17 +11,11 @@
 ├── README.md
 ├── writeup.md
 ├── exp/
-│   └── README.md
+│   ├── README.md
+│   └── exp.py
 └── attachments/
     └── README.md
 ```
-
-各部分含义：
-
-- `README.md`：题目主页，放题目状态、flag、目录导航、简要利用链
-- `writeup.md`：完整解题过程
-- `exp/`：利用脚本、复现脚本或 exp 说明
-- `attachments/`：题目附件、截图、样本或附件说明
 
 ## 当前已收录题目
 
@@ -36,3 +30,6 @@
 - `web/bestphp/`
   - 状态：**已解出**
   - flag：`flag{bdf15ea2-256b-40e3-a4d5-7990137ea15a}`
+- `web/babytrick/`
+  - 状态：**已解出**
+  - flag：`flag{ba5193ad-9cf2-4fc5-a922-9d7a0da4f567}`
