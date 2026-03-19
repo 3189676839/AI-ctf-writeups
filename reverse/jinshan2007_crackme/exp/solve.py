@@ -21,7 +21,7 @@ def init_state(seed: int):
     bits = [0] * 10
     for i in range(1, 9):
         bits[i] = (seed >> i) & 1
-    bits[9] = 0
+    bits[9] = 1
     state = 0
     for i in range(1, 10):
         state |= (bits[i] << (i - 1))
