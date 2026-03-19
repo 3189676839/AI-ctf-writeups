@@ -1,21 +1,22 @@
 # AI-ctf-writeups
 
- CTF 解题仓库，**只保留已经完成并拿到 flag 的题目 writeup**。
+这是主人的 CTF 解题仓库，**只保留已经完成并拿到 flag 的题目 writeup**。
 
-## 统一目录模板
+## 目录规则
 
-仓库中的每道已解题目统一整理为：
+每道题至少保留：
 
 ```text
 题目目录/
 ├── README.md
-├── writeup.md
-├── exp/
-│   ├── README.md
-│   └── exp.py
-└── attachments/
-    └── README.md
+└── writeup.md
 ```
+
+其余内容**按需创建**：
+
+- 有独立 exp 时，才创建 `exp/`
+- 有题目附件时，才创建 `attachments/`
+- 没有内容时，不创建空目录，也不写占位 README
 
 ## 当前已收录题目
 

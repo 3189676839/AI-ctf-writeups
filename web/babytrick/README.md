@@ -12,8 +12,6 @@
 
 - `writeup.md`：完整中文 writeup
 - `exp/exp.py`：最终命中 exp
-- `exp/README.md`：exp 说明
-- `attachments/README.md`：附件说明
 
 ## 老链与新链区别
 

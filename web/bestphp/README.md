@@ -11,5 +11,3 @@
 ## 目录导航
 
 - `writeup.md`：当前可确认信息整理
-- `exp/README.md`：exp 说明
-- `attachments/README.md`：附件说明

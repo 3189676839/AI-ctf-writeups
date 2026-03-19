@@ -11,8 +11,6 @@
 ## 目录导航
 
 - `writeup.md`：中文 writeup
-- `exp/README.md`：exp 说明
-- `attachments/README.md`：附件说明
 
 ## 利用链摘要
 
