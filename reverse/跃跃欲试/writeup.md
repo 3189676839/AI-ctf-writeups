@@ -1,7 +1,7 @@
-# yyys writeup
+# 跃跃欲试 writeup
 
 ## 题目信息
-- 题目：`yyys`
+- 题目：`跃跃欲试`
 - 方向：`Reverse`
 - 类型：Win32 GUI / CrackMe / ASPack
 - 目标：恢复正确注册码（题目中可视作 flag）
