@@ -23,6 +23,12 @@
 
 ## 当前已收录题目
 
+### Pwn
+
+- `pwn/kctf2022_brop/`
+  - 状态：**已解出**
+  - flag：`flag{1654821f-980b-42ac-a638-32b33d94029a}`
+
 ### Web
 
 - `web/easy_harder_php/`
